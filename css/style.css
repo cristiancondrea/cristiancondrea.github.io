@@ -72,3 +72,7 @@ a {color:#48625A;}
 
 .special {background-color:red;color:white}
 .special2 {background-color:red;color:#91CC58;}
+
+.nav-link{
+  padding-top: 3.5em;
+}
